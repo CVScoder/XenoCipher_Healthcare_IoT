@@ -124,8 +124,8 @@ C:/Users/chall/vcpkg/installed/x64-windows/share/mbedtls/MbedTLSTargets-release.
 C:/Users/chall/vcpkg/installed/x64-windows/share/mbedtls/MbedTLSTargets.cmake
 C:/Users/chall/vcpkg/installed/x64-windows/share/postgresql/vcpkg-cmake-wrapper.cmake
 C:/Users/chall/vcpkg/scripts/buildsystems/vcpkg.cmake
-D:/Projects/XenoCipher_Healthcare_IoT/server/CMakeLists.txt
-D:/Projects/XenoCipher_Healthcare_IoT/server/build/CMakeFiles/3.30.4/CMakeCCompiler.cmake
-D:/Projects/XenoCipher_Healthcare_IoT/server/build/CMakeFiles/3.30.4/CMakeCXXCompiler.cmake
-D:/Projects/XenoCipher_Healthcare_IoT/server/build/CMakeFiles/3.30.4/CMakeRCCompiler.cmake
-D:/Projects/XenoCipher_Healthcare_IoT/server/build/CMakeFiles/3.30.4/CMakeSystem.cmake
+D:/Projects/XHI2/XenoCipher_Healthcare_IoT/server/CMakeLists.txt
+D:/Projects/XHI2/XenoCipher_Healthcare_IoT/server/build/CMakeFiles/3.30.4/CMakeCCompiler.cmake
+D:/Projects/XHI2/XenoCipher_Healthcare_IoT/server/build/CMakeFiles/3.30.4/CMakeCXXCompiler.cmake
+D:/Projects/XHI2/XenoCipher_Healthcare_IoT/server/build/CMakeFiles/3.30.4/CMakeRCCompiler.cmake
+D:/Projects/XHI2/XenoCipher_Healthcare_IoT/server/build/CMakeFiles/3.30.4/CMakeSystem.cmake

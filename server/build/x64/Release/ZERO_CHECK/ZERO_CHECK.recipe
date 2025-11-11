@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\Projects\XenoCipher_Healthcare_IoT\server\build\x64\Release\ZERO_CHECK</FullPath>
+      <FullPath>D:\Projects\XHI2\XenoCipher_Healthcare_IoT\server\build\x64\Release\ZERO_CHECK</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
